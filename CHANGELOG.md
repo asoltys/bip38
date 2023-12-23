@@ -1,6 +1,11 @@
+4.0.2 / 2023-12-23
+------------------
+- switch to noble and scure crypto libraries
+- update package to typescript / esm 
+
 3.1.1 / 2020-05-31
 ------------------
-- Add safe-buffer as explicit dependency
+- add safe-buffer as explicit dependency
 
 3.1.0 / 2020-04-09
 ------------------
